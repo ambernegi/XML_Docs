@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<concept id="GUID-7A016490-3AAF-402D-8266-AB13CA0831E0" outputclass="introduction" xml:lang="en-US">
+    <title id="GUID-AF0143B3-E522-472D-A05D-9A093F77EAAA">Introduction</title>
+    <conbody>
+        <p>Silicon Explorer FlashPro (FP) is designed as an alternative solution to the Silicon
+            Explorer II product. It is a command-line utility that uses FlashPro4, FlashPro5, or
+            FlashPro6 programmers to support the Action Probe feature, which is a patented
+            architectural feature built into all Microchip Antifuse devices that allows access to
+            any internal node from the selected external probe pins. The Silicon Explorer FP
+            software has been developed and tested on the <tm tmtype="reg">Windows</tm> 10 OS. </p>
+        <p>Silicon Explorer FP supports the following Antifuse device families:</p>
+        <ul id="UL_HDF_5BF_RVB">
+            <li id="GUID-F7D530B9-56DF-4B66-8527-F6AE13C3E92A">RTAX-S/AX</li>
+            <li id="GUID-359AC17B-D668-4E8D-92D7-5B369F77D285">RTSX-SU</li>
+            <li id="GUID-06E7B76C-8250-4DCB-A9B2-0C6FDF7745B4">A54SXA</li>
+            <li id="GUID-45C0B010-8BC8-46E5-A955-5ED51A044CDC">eX</li>
+        </ul>
+        <note id="NOTE_HH5_WBF_RVB" type="important">All other Antifuse device families including
+            MX, ACT 1, ACT 2, and ACT 3 are not supported.</note>
+    </conbody>
+</concept>
+
