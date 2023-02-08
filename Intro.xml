@@ -8,7 +8,7 @@
             FlashPro6 programmers to support the Action Probe feature, which is a patented
             architectural feature built into all Microchip Antifuse devices that allows access to
             any internal node from the selected external probe pins. The Silicon Explorer FP
-            software has been developed and tested on the <tm tmtype="reg">Windows</tm> 11 OS. </p>
+            software has been developed and tested on the <tm tmtype="reg">Windows</tm> 10 OS. </p>
         <p>Silicon Explorer FP supports the following Antifuse device families:</p>
         <ul id="UL_HDF_5BF_RVB">
             <li id="GUID-F7D530B9-56DF-4B66-8527-F6AE13C3E92A">RTAX-S/AX</li>
