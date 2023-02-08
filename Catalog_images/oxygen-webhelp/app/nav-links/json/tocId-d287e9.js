@@ -1,0 +1,1 @@
+define({"topics":[{"title":"<ph>1.1<\/ph>\nGetting Started","shortdesc":"<p class=\"shortdesc\">Get started with Libero SoC Design Suite <\/p>","href":"GUID-73CD736D-8E0A-41FE-A8FE-DD69C9DD0C3B.html","attributes":{"data-id":"GUID-73CD736D-8E0A-41FE-A8FE-DD69C9DD0C3B"},"menu":{"hasChildren":false},"tocID":"GUID-73CD736D-8E0A-41FE-A8FE-DD69C9DD0C3B-d287e20","topics":[]}]});
